@@ -4,6 +4,8 @@ https://www.google.com/search?q=cuda+vs [opencl, rocm, hip ] - https://www.googl
 # ROCm
 https://rocm.docs.amd.com/en/latest/
 
+sch: https://www.youtube.com/results?search_query=amd+rocm
+
 ## for A.I.
 https://rocm.docs.amd.com/en/latest/how-to/rocm-for-ai/index.html
 
