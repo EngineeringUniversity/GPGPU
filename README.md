@@ -9,3 +9,5 @@ https://rocm.docs.amd.com/en/latest/how-to/rocm-for-ai/index.html
 
 # HIP
 https://rocm.docs.amd.com/projects/HIP/en/latest/index.html
+
+sch: https://www.youtube.com/results?search_query=amd+hip+programming
